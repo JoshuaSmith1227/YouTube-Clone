@@ -1,27 +1,3 @@
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-andrew 
-Enable desktop notifications for Gmail.
-   OK  No thanks
-6 of many
-Fw: Josh READMEs
-Inbox
-
-Andrew Smith
-Attachments
-Fri, Nov 7, 2:34 PM (9 days ago)
-to me
-
-Josh,
-
-See attached for the 2 README files I created for your Blender112 and Youtube clone repos at your GitHub site, hopefully you can find them useful (although please review for accuracy before putting them on your GitHub).
- 2 Attachments
-  •  Scanned by Gmail
-
-
-
 # YouTube Homepage Clone - HTML/CSS Practice
 
 A responsive recreation of YouTube's homepage interface built with HTML and CSS as a learning exercise in modern web layout techniques.
